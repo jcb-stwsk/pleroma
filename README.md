@@ -1,4 +1,4 @@
-# pleroma // [guide](https://wangell.github.io/pleroma-docs/)
+# pleroma // [intro](https://wangell.github.io/pleroma-docs/)
 
 [![blue sky utopian dream](https://i.imgur.com/FdQcgOf.png)](#pleroma)
 [![forest](https://github.com/wangell/pleroma-docs/raw/main/forest.png)](#pleroma)
@@ -6,8 +6,7 @@
 [![sands](https://github.com/wangell/pleroma-docs/raw/main/desert.png)](#pleroma)
 [![comet](https://github.com/wangell/pleroma-docs/raw/main/comet.png)](#pleroma)
 
-Pleroma is a distributed operating system for personal computing inspired by the original vision of Smalltalk, the E programming language, and Inferno/Plan9.  See the [guide](https://wangell.github.io/pleroma-docs/) for details.
-
+Pleroma is a distributed OS for personal computing, inspired by the original vision of Smalltalk, the E programming language and Inferno/Plan9.  See the [guide](https://wangell.github.io/pleroma-docs/) for more details and such further reference.
 
 ```
 All Watched Over By Machines Of Loving Grace
